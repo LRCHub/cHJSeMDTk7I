@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "No Man's Dawn",
+  "base_artist": "前島麻由",
+  "createdAt": "2025-12-01T10:03:40.822379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NO MAN'S DAWN",
+      "artist": "前島麻由",
+      "has_synced": true,
+      "path": "select/01_NO_MAN'S_DAWN_前島麻由.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Man's Dawn (From \"Overlord IV\") (TV Size)",
+      "artist": "Mewsic",
+      "has_synced": false,
+      "path": "select/02_No_Man's_Dawn_(From__Overlord_IV_)_(TV_Size)_Mewsic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Man's Dawn",
+      "artist": "前島麻由",
+      "has_synced": true,
+      "path": "select/03_No_Man's_Dawn_前島麻由.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Man's Dawn",
+      "artist": "criminal",
+      "has_synced": true,
+      "path": "select/04_No_Man's_Dawn_criminal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NO MAN'S DAWN",
+      "artist": "Mayu Maeshima",
+      "has_synced": true,
+      "path": "select/05_NO_MAN'S_DAWN_Mayu_Maeshima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NO MAN'S DAWN(INSTRUMENTAL)",
+      "artist": "Mayu Maeshima",
+      "has_synced": true,
+      "path": "select/06_NO_MAN'S_DAWN(INSTRUMENTAL)_Mayu_Maeshima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Man's Dawn",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_01_No_Man's_Dawn_前島麻由.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "No Man's Dawn",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_02_No_Man's_Dawn_前島麻由.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "No Man's Dawn",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_03_No_Man's_Dawn_前島麻由.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "No Man's Dawn",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_04_No_Man's_Dawn_前島麻由.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "No Man's Dawn",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_05_No_Man's_Dawn_前島麻由.txt"
+    }
+  ]
+}
